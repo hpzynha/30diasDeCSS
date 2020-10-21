@@ -60,7 +60,7 @@
 
 ![Dia 03](https://j.gifs.com/p80mAQ.gif)
 
-[Meu código](https://github.com/hpzynha/30diasDeCSS/tree/main/03)
+[Meu código](https://j.gifs.com/p80mAQ.gif)
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6724705930421829633-DhFA)
 
