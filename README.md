@@ -74,9 +74,9 @@
 ##  Desafio dia 05 - Efeito Pulsar <a name="id05"></a>
 ![dia 05](https://j.gifs.com/wVB3Vg.gif)
 
-[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/04)
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/05)
 
-[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascs-html5-css3-activity-6725049508692074496-0jxT)
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascs-html5-css3-activity-6725385112269185024-YcZs)
 
 
 
