@@ -78,6 +78,13 @@
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascs-html5-css3-activity-6725385112269185024-YcZs)
 
+##  Desafio dia 06 - Efeito lightning text <a name="id06"></a>
+![dia 06](https://j.gifs.com/wVB3Vg.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/05)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascs-html5-css3-activity-6725385112269185024-YcZs)
+
 
 
 
