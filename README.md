@@ -16,7 +16,7 @@ Fala Devs, beleza? 🖖
 * O projeto deve ser concluído até 23:59
 
 
-##Desafios Concluidos
+# Desafios Concluidos
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
