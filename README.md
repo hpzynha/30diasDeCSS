@@ -9,14 +9,14 @@ Fala Devs, beleza? 🖖
  ## Objetivo
  30 dias de CSS3 é um desafio que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de projetos.
 
-# Regras gerais 
+ ## Regras gerais 
 
 * Realizar um projeto por dia
 * Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
 * O projeto deve ser concluído até 23:59
 
 
-# Desafios Concluidos
+ ## Desafios Concluidos
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
