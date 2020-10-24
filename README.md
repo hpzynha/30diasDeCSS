@@ -1,12 +1,21 @@
 ## 🚀 30diasDeCSS 🚀
  
- Eaí Devs, beleza? 🖖
+Fala Devs, beleza? 🖖
 
- 30 dias de CSS3, é um desafio que tem como objetivo melhorar as habilidades de codificação fazendo mini projetos diarios utilizando HTML5 e CSS3 
+ Eu estou participando do desafio 30 dias de CSS, é um desafio que tem como objetivo melhorar as habilidades de codificação fazendo mini projetos diarios utilizando HTML5 e CSS3 
+ 
+ Créditos a idealizadora do desafio 30 dias de CSS [@MilenaCarecho](https://github.com/MilenaCarecho)
 
  ## Objetivo
+ 30 dias de CSS3 é um desafio que visa melhorar minhas habilidades em HTML5 e CSS3 através da realização de projetos.
 
-30 dias de CSS3 é um desafio que vou aceitar criado pela [@MilenaCarecho](https://github.com/MilenaCarecho)
+# Regras gerais 
+
+* Realizar um projeto por dia
+* Compartilhe seu progresso nas mídias sociais (Twitter, Facebook, Linkedin etc.) usando a hashtag #30diasDeCSS
+* O projeto deve ser concluído até 23:59
+
+
 
 * [Dia 01 - Ícone de mídia social em camadas](#id01)
 * [Dia 02 - Loader animado](#id02)
