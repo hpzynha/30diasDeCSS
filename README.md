@@ -95,6 +95,13 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6725912605132685312-FgHO)
 
+##  Desafio dia 07 - Preloader animado <a name="id07"></a>
+![dia 06](https://j.gifs.com/4Q7102.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/07)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6726311985291563008-sS9P)
+
 
 
 
