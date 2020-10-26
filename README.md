@@ -103,5 +103,13 @@ Fala Devs, beleza? 🖖
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6726311985291563008-sS9P)
 
 
+##  Desafio dia 08 - Coração batendo <a name="id08"></a>
+![dia 06](https://j.gifs.com/4Q7102.gif)
+
+[Meu codigo](https://j.gifs.com/E85JvK.gif)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6726588962523136000-hJTU)
+
+
 
 
