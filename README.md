@@ -113,9 +113,18 @@ Fala Devs, beleza? 🖖
 ##  Desafio dia 09 - Pendulo de Newton <a name="id09"></a>
 ![dia 09](https://j.gifs.com/nxpBqP.gif)
 
-[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/08)
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/09)
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6726835371994361856-41KQ)
+
+
+##  Desafio dia 10 - Animação texto alternando <a name="id10"></a>
+![dia 10](https://j.gifs.com/oVLR9K.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/10)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6727349039177744384-oI29)
+
 
 
 
