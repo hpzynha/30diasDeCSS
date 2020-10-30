@@ -133,6 +133,13 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6727650394467565568-wgPP)
 
+##  Desafio dia 12 - Efeito de preenchimento ao passar o mouse<a name="id12"></a>
+![dia 12](https://j.gifs.com/oVLQBX.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/12)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6727951351466270721-zMkL)
+
 
 
 
