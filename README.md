@@ -140,6 +140,11 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6727951351466270721-zMkL)
 
+##  Desafio dia 13 -  Loading com efeito<a name="id13"></a>
+![dia 13](https://j.gifs.com/wVWK0J.gif)
 
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/13)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6728444662455042048-vt2F)
 
 
