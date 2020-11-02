@@ -147,4 +147,11 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6728444662455042048-vt2F)
 
+##  Desafio dia 14 -  Fundo de texto animado<a name="id14"></a>
+![dia 14](https://j.gifs.com/Gv49rr.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/14)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6728444662455042048-vt2F)
+
 
