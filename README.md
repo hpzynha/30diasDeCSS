@@ -154,4 +154,13 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6728444662455042048-vt2F)
 
+##  Desafio dia 15 - Texto flutuante<a name="id15"></a>
+![dia 15](https://j.gifs.com/L74Avg.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/15)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6729081851203375105-IWND)
+
+
+
 
