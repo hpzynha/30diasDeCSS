@@ -161,6 +161,13 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6729081851203375105-IWND)
 
+##  Desafio dia 16 - Botão com efeito<a name="id16"></a>
+![dia 16](https://j.gifs.com/0YQEr7.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/16)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6729554359631384576-_lLi)
+
 
 
 
