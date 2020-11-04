@@ -168,6 +168,12 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6729554359631384576-_lLi)
 
+##  Desafio dia 17 - Loader animado<a name="id17"></a>
+![dia 17](https://j.gifs.com/AN4K23.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/17)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6729723312206856193-nqsU)
 
 
 
