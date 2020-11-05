@@ -175,5 +175,12 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6729723312206856193-nqsU)
 
+##  Desafio dia 18 - Texto esfumaçado<a name="id18"></a>
+![dia 18](https://j.gifs.com/WL41Wx.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/18)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6730099636196978688-XoV1)
+
 
 
