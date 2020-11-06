@@ -182,5 +182,12 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6730099636196978688-XoV1)
 
+##  Desafio dia 19 -  Efeitos de animação fundo de partículas<a name="id19"></a>
+![dia 19](https://j.gifs.com/BN47lo.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/19)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6730484090002321408-YQN_)
+
 
 
