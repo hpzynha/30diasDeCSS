@@ -189,5 +189,12 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6730484090002321408-YQN_)
 
+##  Desafio dia 20 -  Botão com efeito<a name="id20"></a>
+![dia 20](https://j.gifs.com/RO9JDE.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/20)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6730994734984155136-tdn5)
+
 
 
