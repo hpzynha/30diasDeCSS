@@ -197,11 +197,18 @@ Fala Devs, beleza? 🖖
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6730994734984155136-tdn5)
 
 ##  Desafio dia 21 -  Esferas quicando<a name="id21"></a>
-![dia 20](https://j.gifs.com/vlV6A5.gif)
+![dia 21](https://j.gifs.com/vlV6A5.gif)
 
 [Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/21)
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6731333702976204800-xJJ_)
+
+##  Desafio dia 22 - Ícones com efeito<a name="id22"></a>
+![dia 22](https://j.gifs.com/BN4AKo.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/22)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6731637318643462144-k17N)
 
 
 
