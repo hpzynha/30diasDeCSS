@@ -210,5 +210,11 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6731637318643462144-k17N)
 
+##  Desafio dia 23 - Botão com efeito hover<a name="id23"></a>
+![dia 23](https://j.gifs.com/1WRZw3.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/23)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6731950770129829888-4uaI)
 
 
