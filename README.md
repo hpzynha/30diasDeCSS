@@ -217,4 +217,11 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6731950770129829888-4uaI)
 
+##  Desafio dia 24 - Preloader animado<a name="id24"></a>
+![dia 24](https://j.gifs.com/gZzgX6.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/24)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6732375083836342272-fwhs)
+
 
