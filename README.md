@@ -224,4 +224,11 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6732375083836342272-fwhs)
 
+##  Desafio dia 25 - Checkbox animado<a name="id25"></a>
+![dia 25](https://j.gifs.com/BN4312.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/25)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6732651831765344256-p1LM)
+
 
