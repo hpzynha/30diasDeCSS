@@ -231,4 +231,11 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6732651831765344256-p1LM)
 
+##  Desafio dia 26 - Loading com efeito<a name="id26"></a>
+![dia 26](https://j.gifs.com/4QX1g6.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/26)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6733019407301312512-Nw2W)
+
 
