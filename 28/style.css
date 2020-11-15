@@ -1,0 +1,29 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Lato', sans-serif;
+    animation: backgroundchange 20s infinite;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+}
+
+@keyframes backgroundchange{
+    0% { background-color: #ffbe0b}
+
+    20% { background-color: #fb5607}
+
+    40% { background-color: #ff006e}
+
+    60% { background-color: #8338ec}
+
+    80% { background-color: #3a86ff}
+
+    100% { background-color: #cbff8c}
+}
