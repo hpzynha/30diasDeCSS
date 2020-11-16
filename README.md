@@ -245,4 +245,18 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6733407317477392384-40Gi)
 
+##  Desafio dia 28 - cor do background mudando<a name="id27"></a>
+![dia 28](https://j.gifs.com/BN4xx2.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/28)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6733407317477392384-40Gi)
+
+##  Desafio dia 29 - Menu responsivo com Media Queries<a name="id29"></a>
+![dia 29](https://j.gifs.com/yoLPYP.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/29)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6733727734419259392-L8QC)
+
 
