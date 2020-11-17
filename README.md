@@ -259,4 +259,11 @@ Fala Devs, beleza? 🖖
 
 [Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6733727734419259392-L8QC)
 
+##  Desafio dia 30 - Menu responsivo com Media Queries<a name="id30"></a>
+![dia 30](https://j.gifs.com/q7zYw0.gif)
+
+[Meu codigo](https://github.com/hpzynha/30diasDeCSS/tree/main/30)
+
+[Post LinkedIn](https://www.linkedin.com/posts/larissanrocha_30diascss-html5-css3-activity-6734548464862068736-MpcG)
+
 
